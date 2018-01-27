@@ -8,7 +8,7 @@ Being lazy, we can just work at our own Windows directory using WSL Shell.
 
 # Where is my user directory then?
 
-Located at `/mnt`. It is labelled alphabetically with lowercase. Say, `C:` is `/mnt/c`. The rest is the same as Windows directory, such that `/mnt/c/Users/yourname`
+Same as Windows directory, such that `/mnt/c/Users/yourname`. Windows drives are located at `/mnt`, labelled alphabetically with lowercase. Say, `C:` is `/mnt/c`.  
 
 # Neat, now I need a simple script to make stuff easier
 
