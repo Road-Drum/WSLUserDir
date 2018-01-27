@@ -14,7 +14,7 @@ Same as Windows directory, such that `/mnt/c/Users/yourname`. Windows drives are
 
 Have a look at the code or clone it. It's pretty simple.
 
-To run the code, use `. winuserdir.sh` instead of `./winuserdir.sh`
+To run the code, use `. wsldir.sh` instead of `./wsldir.sh`
 
 
 That said, happy working with WSL!  
